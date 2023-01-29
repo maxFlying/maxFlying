@@ -19,5 +19,7 @@
 ### 👀 Follow me
 
 [![Facebook](https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100015440434717)
+[![VK](https://img.shields.io/badge/-VK-000?style=for-the-badge&logo=VK)](https://vk.com/golubms)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/golubms)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=LinkedIn)](https://www.facebook.com/profile.php?id=100015440434717)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/maksim-golub-9b28a3263/)
+
